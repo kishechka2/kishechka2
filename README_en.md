@@ -41,24 +41,7 @@ To grow as a Frontend Developer and gain my first commercial experience in IT.
 
 ---
 
-## Portfolio
-
-- [UA — Portfolio page](portfolio/index.html)
-- [EN — Portfolio page](portfolio/en/index.html)
-
----
-
 If you'd like, I can also:  
-- add a Ukrainian text version of this README,  
-- generate a PDF/CV layout, or  
-- help deploy the portfolio (GitHub Pages).
-
----
-
-## GitHub Pages (optional)
-
-To publish this portfolio using GitHub Pages from the `main` branch, I copied the site into the `docs/` folder. After enabling Pages in the repository settings, your site will be available at:
-
-- https://kishechka2.github.io/kishechka2/
-
-If you want, I can enable a GitHub Action to auto-deploy or help you enable Pages in the repo settings.
+- create a simple portfolio HTML/CSS page,  
+- generate a Ukrainian version, or  
+- produce a PDF/CV layout.
